@@ -1,0 +1,2 @@
+# branchshot-release
+BranchShotリリースリポジトリ
